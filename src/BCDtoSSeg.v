@@ -1,8 +1,8 @@
 module multiplexor_7seg(
   input  [3:0] BCD,  
-  output [6:0] SSeg 
+  output reg [6:0] SSeg 
 );
-  always_comb begin
+  always@(*) begin
       case (BCD)
           4'b0000: SSeg = ~ 7'b0111111; // 0
           4'b0001: SSeg = ~ 7'b0000110; // 1
