@@ -1,34 +1,42 @@
-# lab03 Decodificador BCD a 7segmentos
+# Lab03 - Decodificador BCD a 7 segmentos
+
+# Integrantes
 
 
-## Integrantes 
-
-
-## Informe
+# Informe
 
 Indice:
 
-1. [Diseño implementado](#diseño-implementado)
+1. [Documentación](#documentación-de-los-circuitos-implementados-implementado)
 2. [Simulaciones](#simulaciones)
-3. [Implementación](#implementación)
-4. [Preguntas](#preguntas)
-5. [Conclusiones](#conclusiones)
+3. [Evidencias de implementación](#evidencias-de-implementación)
+4. [Conclusiones](#conclusiones)
+5. [Referencias](#referencias)
 
-## Diseño implementado
+## Documentación del diseño implementado
 
-### Descripción
+### 1. Sumador/Restador
 
-### Diagramas
+#### 1.1 Descripción
+
+#### 1.2 Diagramas
 
 
 ## Simulaciones 
 
+### 1. Simulación del sumador/restador
 
-## Implementación
+#### 1.1 Descripción
+
+#### 1.2 Diagrama
+
+
+## Evidencias de implementación
 
 
 ## Conclusiones
 
 
+## Referencias
 
 
