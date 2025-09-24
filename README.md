@@ -7,7 +7,7 @@
 
 Indice:
 
-1. [Documentación](#documentación-de-los-circuitos-implementados-implementado)
+1. [Documentación](#documentacion-del-diseno-implementado)
 2. [Simulaciones](#simulaciones)
 3. [Evidencias de implementación](#evidencias-de-implementación)
 4. [Conclusiones](#conclusiones)
